@@ -1,5 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif))]
-(https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Yadu Krishnan kv</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
