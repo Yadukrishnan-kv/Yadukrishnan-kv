@@ -1,4 +1,4 @@
-[![]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://blog.solguruz.com/wp-content/uploads/2023/11/Hiring-MERN-Stack-Developers-A-How-to-Guide-for-Businesses.png))](https://rishavchanda.io)
+[![]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://blog.solguruz.com/wp-content/uploads/2023/11/Hiring-MERN-Stack-Developers-A-How-to-Guide-for-Businesses.png))]
 <h1 align="center">Hi 👋, I'm Yadu Krishnan kv</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
