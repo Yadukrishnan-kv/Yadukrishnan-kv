@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://blog.solguruz.com/wp-content/uploads/2023/11/Hiring-MERN-Stack-Developers-A-How-to-Guide-for-Businesses.png))](https://rishavchanda.io)
+[![]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://blog.solguruz.com/wp-content/uploads/2023/11/Hiring-MERN-Stack-Developers-A-How-to-Guide-for-Businesses.png))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yadu Krishnan kv</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Food Delivery Application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yadukrishnan-kv](https://github.com/Yadukrishnan-kv)
-- 
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
