@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A passionate MERN developer</p>
+<h4 align="center">A passionate MERN developer</h4>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s"  />
+<img align="right" height="200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 ###
 
@@ -75,9 +75,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Yadukrishnan-kv/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Yadukrishnan-kv/Yadukrishnan-kv/output/snake.svg" alt="Snake animation" />
 
 ###
