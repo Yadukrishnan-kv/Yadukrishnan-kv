@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://miro.medium.com/v2/resize:fit:678/0*kxPYwfJmkXZ3iCWy.png))]
 
 <h1 align="center">Hi 👋, I'm Yadu Krishnan kv</h1>
 <h3 align="center">A passionate MERN developer</h3>
