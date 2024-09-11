@@ -6,6 +6,22 @@
 
 ###
 
+<p align="left">💬 Ask me about MongoDB, Express, React, and Node</p>
+
+###
+
+<p align="left">🌱 I’m currently learning nextjs</p>
+
+###
+
+<p align="left">🔭 I’m currently working on Food Delivery Application</p>
+
+###
+
+<p align="left">👨‍💻 All of my projects are available at https://github.com/Yadukrishnan-kv</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -30,6 +46,10 @@
 
 ###
 
+<img align="right" height="200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
+###
+
 <div align="left">
   <a href="www.linkedin.com/in/yadukrishnankv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -42,31 +62,9 @@
 
 ###
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
-
-###
-
-<p align="left">💬 Ask me about MongoDB, Express, React, and Node</p>
-
-###
-
-<p align="left">🔭 I’m currently working on Food Delivery Application</p>
-
-###
-
-<p align="left">🌱 I’m currently learning nextjs</p>
-
-###
-
-<p align="left">👨‍💻 All of my projects are available at https://github.com/Yadukrishnan-kv</p>
-
-###
-
-<div align="left ">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yadukrishnan-kv&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yadukrishnan-kv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Yadukrishnan-kv&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=13&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yadukrishnan-kv&radius=16&theme=react&area=true&order=5&hide_border=true" height="180" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yadukrishnan-kv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Yadukrishnan-kv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Yadukrishnan-kv&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
